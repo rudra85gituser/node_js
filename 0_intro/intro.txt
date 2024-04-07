@@ -1,0 +1,32 @@
+node js is java script runtime built on chromes v8 js engine
+
+
+what is js runtime environment = previously we are running on brouser to check error and output
+now we have our own runtime environment(terminal) to see output and code
+
+chrome v8 engine = it is used to convert js code to machine understandable language on brouser
+
+now nodejs is engine to run js code outside the brouser(or in personal server) and to convert  js code to machine understandable language on brouser
+
+node js is the java script running on the server = with the help of chromes v8 engine we can run js code in our own server
+
+c++ + v8 engine=node.exe/node js
+
+chrome has v8engine
+safari has nitro
+firefox has spidermonkey
+
+when to use node js = there are many backend languages but  why nodejs = i/o bound, data streaming application , real time chat application
+
+npm is node package manager(provides predefined code for easiness)
+
+node js runs on the server
+
+console.log is part of v8 engine
+
+node -v = version 
+dir = directory
+clear  = to empty terminal
+node (path) = node index.js
+
+prerequisits = basic java script
