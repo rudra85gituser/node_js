@@ -1,0 +1,7 @@
+through this tutorial we learn to excess our file ,folder , data in  our server and operating system
+
+the os provides os related module utility methods and propreties . 
+
+website -> node js.org -> os
+
+using os module we an also find architecture/version of a file eg file is 32 bit or 64 bit
