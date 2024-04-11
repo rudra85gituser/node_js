@@ -1,4 +1,5 @@
 //stands for node package manager
+//in node js we called packages as modules
 //while doing projects we can manage AND TRACK OUT PACKAGES AND LIBRARIEA
 //how we can do form validation and using package how we can do changes in terminal output and many more
 //java script have highest npm
@@ -64,3 +65,5 @@ console.log(res1);
 const res2 = validator.isEmail('rudrarudra.com');
 console.log(res2 ? chalk.green.inverse(res2) : chalk.red.inverse(res2));
 console.log(res2);
+
+E:\Study\node_js\10_nodemon\node_modules
