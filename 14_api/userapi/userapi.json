@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1fx4d5g8h",
+        "first_name": "Alice",
+        "last_name": "Smith",
+        "email": "alice.smith@example.com",
+        "job_title": "Software Engineer",
+        "salary": 95000
+    },
+    {
+        "id": "2gy7h9j1k",
+        "first_name": "Bob",
+        "last_name": "Johnson",
+        "email": "bob.johnson@example.com",
+        "job_title": "Data Analyst",
+        "salary": 78000
+    },
+    {
+        "id": "3hz5j6k8l",
+        "first_name": "Charlie",
+        "last_name": "Williams",
+        "email": "charlie.williams@example.com",
+        "job_title": "Project Manager",
+        "salary": 105000
+    },
+    {
+        "id": "4jx6k7l9m",
+        "first_name": "David",
+        "last_name": "Jones",
+        "email": "david.jones@example.com",
+        "job_title": "Marketing Specialist",
+        "salary": 62000
+    },
+    {
+        "id": "5ky8m1n3p",
+        "first_name": "Eve",
+        "last_name": "Brown",
+        "email": "eve.brown@example.com",
+        "job_title": "Financial Analyst",
+        "salary": 88000
+    },
+    {
+        "id": "6lz2n4p5q",
+        "first_name": "Frank",
+        "last_name": "Davis",
+        "email": "frank.davis@example.com",
+        "job_title": "Software Engineer",
+        "salary": 103000
+    },
+    {
+        "id": "7m4p6q8r9",
+        "first_name": "Grace",
+        "last_name": "Miller",
+        "email": "grace.miller@example.com",
+        "job_title": "Data Analyst",
+        "salary": 72000
+    },
+    {
+        "id": "8q5r7t9v1",
+        "first_name": "Helen",
+        "last_name": "Wilson",
+        "email": "helen.wilson@example.com",
+        "job_title": "Project Manager",
+        "salary": 98000
+    }
+]
